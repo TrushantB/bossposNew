@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "Id": 1,
+      "productName": "Cold-drinks",
+      "productDescription": "asd",
+      "productTypeId": "31",
+      "actualPrice": "121",
+      "salePrice": "122.8755",
+      "taxes": [
+        "1",
+        "2"
+      ],
+      "IsDeleted": 0
+      }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
